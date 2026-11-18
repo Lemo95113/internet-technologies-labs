@@ -1,0 +1,6 @@
+**/results/
+Перевірка/*results.json
+Перевірка/browser-checks.json
+*.zip
+*.docx
+.DS_Store

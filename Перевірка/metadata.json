@@ -1,0 +1,27 @@
+{
+  "folders": {
+    "1": "IT-Lab1-Monastyrskyi_Artem",
+    "2": "IT_Lab2-Monastyrskyi_Artem",
+    "3": "IT-Lab3-Monastyrskyi_Artem",
+    "4": "IT-Lab4-Monastyrskyi_Artem",
+    "5": "IT-Lab5-Monastyrskyi_Artem",
+    "6": "IT-Lab6-Monastyrskyi_Artem",
+    "7": "IT-Lab7-Monastyrskyi_Artem",
+    "8": "IT-Lab8-Monastyrskyi_Artem",
+    "9": "IT-Lab9-Monastyrskyi_Artem"
+  },
+  "titles": {
+    "1": "CSS фреймворк Bootstrap",
+    "2": "Основи JavaScript",
+    "3": "Умовні оператори та цикли JavaScript",
+    "4": "Функції JavaScript",
+    "5": "Масиви та об’єкти JavaScript",
+    "6": "Основи ООП",
+    "7": "Наслідування",
+    "8": "EcmaScript 2015",
+    "9": "jQuery"
+  },
+  "student": "Монастирський Артем Юрійович",
+  "group": "КН-31",
+  "teacher": "Дупак Богдан Петрович"
+}

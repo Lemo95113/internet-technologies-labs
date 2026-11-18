@@ -1,0 +1,18 @@
+[
+  {
+    "r030": 840,
+    "txt": "Долар США",
+    "rate": 45.202,
+    "cc": "USD",
+    "exchangedate": "19.11.2026",
+    "special": "N"
+  },
+  {
+    "r030": 978,
+    "txt": "Євро",
+    "rate": 49.5717,
+    "cc": "EUR",
+    "exchangedate": "19.11.2026",
+    "special": null
+  }
+]
